@@ -1,4 +1,4 @@
-{
+php -l config.phpphp -l config.php{
     "require": {
         "twig/twig": "^2.0",
         "kint-php/kint": "3.*",
