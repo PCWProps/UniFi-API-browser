@@ -1,6 +1,8 @@
 # Ignore personal config files
 config/config.php
 config/users.php
+settings.json
+.vscode/
 
 # ignore these files
 desktop.ini
